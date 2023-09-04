@@ -1,4 +1,4 @@
 # DSA
 
--- Author : Himanshu Kashyap
+-- Author : Himanshu Kashyap (CU student)
 This is my first Repo.
